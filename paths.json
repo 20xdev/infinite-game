@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/infinite-game/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/infinite-game/"
   ]
 }
